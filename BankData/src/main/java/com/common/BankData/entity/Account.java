@@ -31,6 +31,7 @@ Account {
 
     @ColumnDefault("0")
     private long phoneNo;
+    private String ssn;
 //@Column(name = "age")
 //    private int age=0;
 
